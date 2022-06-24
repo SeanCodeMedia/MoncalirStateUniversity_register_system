@@ -1,3 +1,3 @@
 # MoncalirStateUniversity_register_system
  
-![Alt text](/MSU database system.png "Optional Title")
+<img src="/MSU database system.png" alt="Alt text" title="MSU Database Project">
