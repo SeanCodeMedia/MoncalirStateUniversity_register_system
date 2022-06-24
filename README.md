@@ -1,4 +1,4 @@
-# Moncalir StateUniversity Register System
+# Monclair State University Register System
  
  <a href="https://github.com/SeanCodeMedia/MoncalirStateUniversity_register_system/blob/main/Documentation.pdf"><h2>Please read documentation to understand project<h2></a>
  
